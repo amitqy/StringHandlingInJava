@@ -24,8 +24,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Product">
+  <component name="RunManager" selected="Application.StringComparisonVsObjectComparison">
     <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Product" />
       <module name="StringHandlingInJava" />
@@ -33,9 +37,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="immutable.StringComparison" />
+      <module name="StringHandlingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringComparisonVsObjectComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="immutable.StringComparisonVsObjectComparison" />
+      <module name="StringHandlingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringDemo" />
       <module name="StringHandlingInJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="immutable.Test" />
+      <module name="StringHandlingInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="immutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -53,6 +96,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringComparisonVsObjectComparison" />
+        <item itemvalue="Application.StringComparison" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Product" />
         <item itemvalue="Application.StringDemo" />
       </list>
@@ -66,7 +112,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622023793860</updated>
-      <workItem from="1622023795646" duration="489000" />
+      <workItem from="1622023795646" duration="3295000" />
     </task>
     <servers />
   </component>
